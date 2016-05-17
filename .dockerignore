@@ -1,4 +1,5 @@
 *
+.git
 !Dockerfile
 !static
 !default.conf
